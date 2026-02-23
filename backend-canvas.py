@@ -1,4 +1,3 @@
-import streamlit as st
 from fastapi import FastAPI, UploadFile,File
 from PIL import Image, ImageOps
 import io
