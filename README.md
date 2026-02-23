@@ -1,4 +1,4 @@
-To see it working in action visit my huggingface page: https://huggingface.co/spaces/Poohrin/handwritten-digit-recogniser-resnet
+To see it working in action visit my huggingface page: https://huggingface.co/spaces/phurinrintanalert/handwritten-digit-recogniser-resnet
 
 # handwritten-digit-recogniser-resnet: Handwritten Digit Recognition ✍️🔢
 End-to-end handwritten digit recognition app built with a custom ResNet model trained on MNIST and deployed through Streamlit and FastAPI with interactive drawing canvas
